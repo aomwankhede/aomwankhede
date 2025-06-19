@@ -1,81 +1,54 @@
-# 👨‍💻 Software Engineer | Backend Developer | System Design Enthusiast
+# 👋 Hi, I'm Aom
 
-Welcome to my GitHub. I specialize in building production-ready backend systems that are scalable, reliable, and cleanly architected.
+**Software Engineer**
 
 ---
 
-## 🧠 Core Expertise
+## 🔧 Core Technologies
 
 **Languages:**  
-Java · C++ · JavaScript · TypeScript · SQL  
+Java · JavaScript · C++ · Python 
 
-**Backend Frameworks:**  
-Spring Boot (Web, JPA, Security) · Node.js (Express.js)  
+**Backend:**  
+Spring Boot · Express.js . Django . Flask 
 
-**Concepts & Patterns:**  
-- RESTful API Design  
-- Clean Architecture · Layered Services · DTO Mapping  
-- Asynchronous Programming (CompletableFuture)  
-- Retry Logic · Idempotency · RBAC  
-- System Design (Splitwise, Wallet Systems, Transaction Engines)
+**Frontend (Basic Use):**  
+HTML · CSS · Tailwind CSS . React.js . Next.js
 
-**Tools & Tech:**  
-PostgreSQL · MongoDB · Redis · Git · Docker · Maven  
-GitHub Actions · Railway · Postman · IntelliJ · VSCode
+**Databases:**  
+PostgreSQL · MongoDB . MySQL . Cassandra
+
+**Tools :**  
+Docker · Git · Postman . Hadoop . Spark
 
 ---
 
-## 🚀 Featured Projects
+## 💡 Areas of Interest
 
-### 🔹 FinSplit - Expense Splitter Backend  
-**Stack:** Java, Spring Boot, PostgreSQL  
-- Manages users, groups, and shared expenses  
-- Async reimbursement engine with retries  
-- Clean code, layered services, validation, error handling
-
-### 🔹 BestCars - Car Dealership Web Platform  
-**Stack:** Node.js, MongoDB, Express  
-- Geo-based branch lookup  
-- Role-based access: guest, user, admin  
-- Smart review search using IBM Watson NLP
-
-### 🔹 SocialNet Backend (C++)  
-**Stack:** C++ (OOP, STL)  
-- Simulation of scalable social networking backend  
-- Emphasis on file-based persistence and memory-efficient design
-
+- Backend architecture and system design  
+- Asynchronous processing
+- Clean code principles and modular REST API development   
 ---
 
 ## 💬 Ask Me About
 
-- Java Spring Boot best practices  
-- Building scalable microservices  
-- CompletableFuture & concurrency in Java  
-- Designing APIs for production environments  
-- DTO architecture, validation, and exception handling  
-- Secure authentication flows (JWT, RBAC)
-
+- Backend Development
+- Devops
+- DSA
 ---
 
-## 🤝 Open to Collaborations
+## 🤝 Open to
 
-- Keen to contribute to **open-source backend projects**  
-- Available for backend architecture discussions or reviews  
-- Interested in fintech, SaaS tools, API platforms, and high-concurrency systems
+- Contributing to backend and infrastructure-focused open source projects  
+- Collaborating on scalable systems, tools, or utilities  
+- Learning from clean and well-documented codebases  
 
 ---
 
 ## 📈 GitHub Stats
 
-![Aom GitHub Stats](https://github-readme-stats.vercel.app/api?username=aomwankhede&show_icons=true&theme=default&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aomwankhede&show_icons=true&theme=default&hide_border=true)
 
-![Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=aomwankhede&layout=compact&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aomwankhede&layout=compact&hide_border=true&theme=default)
 
 ---
-
-## 🔗 Quick Links
-
-- 📦 [Browse Repositories](https://github.com/aomwankhede?tab=repositories)
-- 🧪 [Experimental Projects & Snippets](https://github.com/aomwankhede?tab=repositories&q=lab)
-
-> Writing clean, testable, and scalable backend code — one module at a time.
