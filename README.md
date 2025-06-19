@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+[![Aom's GitHub stats](https://github-readme-stats.vercel.app/api?username=aomwankhede)](https://github.com/aomwankhede/github-readme-stats)
 <!--
 **aomwankhede/aomwankhede** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
